@@ -1,0 +1,25 @@
+<html>
+<body>
+
+ <h1> <em>Furqaan's</em> store </h1>
+ <h4> Choose the options below: </h4>
+
+<button> Shirts </button>
+<button> Jeans </button>
+ 
+ <p> <strong> check our other apparel out too! </strong> <br>
+ <br>
+ <button>Sweatshirts!</button><br>
+ <button>Cardigans!</button><br>
+ <button>Pullovers and more</button> 
+ <p/>
+ <em> Check the newly added products in our store </em>
+ <strong> with <em> flat </em> 50% discount! </strong> <br>
+ <br>
+<button> Cosemetics </button>
+<button> Eyewear </button>
+<br>
+<P> Thanks for visiting my store,we hope to see you again soon! </p>
+
+</html>
+</body> 
