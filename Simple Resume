@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#top {
+        background-color:lightblue;
+        padding: 20px;
+}
+.intro {
+        color:darkblue;
+        font-weight:bold;
+        font-style:italic;
+        font-size:small;
+}
+.intro1 {
+         color:black;
+         font-weight:bold;
+         font-size:big;
+}
+</style>
+</head>
+<body>
+<div style ="background-color:grey;text-align:centre">
+    <p>College Resume</p>
+    </div>
+<div id="top">
+<div style="border:1px solid black">
+<p class="intro1">Furqaan khan,MSRIT</p>
+<p class="intro">Dob:1998/14/08</p>
+<p class="intro">School:St Johns high school</p>
+<p class="intro">Pre-university: St-Germains</p>
+<p class="intro">skilled in:C, c++, java, html, css</p>
+<p class="intro1">Extra Curriculas:</p>
+<ol>
+    <li>music</li>
+    <li>art</li>
+    <li>writing</li>
+</ol>
+<p class="intro1">Additional CS skills:</p>
+<ul>
+    <li>Python</li>
+    <li>Gamedev</li>
+    <li>Neural Networks</li>
+</ul>
+</div>
+</body>
+</html>
